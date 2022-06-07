@@ -1,0 +1,16 @@
+# ninja log v5
+2	338	6763018447968819	CMakeFiles/TresEnRayaV1.dir/main.cpp.obj	cab33b854af74d51
+340	512	6763018449673131	TresEnRayaV1.exe	ff6fb42fd6bd33ae
+14	363	6762176181019936	CMakeFiles/TresEnRayaV1.dir/Ficha.cpp.obj	f2fa1af5dba6c9c7
+11	572	6762983047837102	CMakeFiles/TresEnRayaV1.dir/Jugador.cpp.obj	1e444be1835e54f7
+13	535	6762983047278968	CMakeFiles/TresEnRayaV1.dir/Tablero.cpp.obj	bef0294394b81e05
+13	280	6763017903500413	CMakeFiles/TresEnRayaV1.dir/TicTacToe.cpp.obj	3a61b48214894c13
+1	296	6763018463396988	build.ninja	77b8c17ab6ecb8b5
+4	523	6763019102967503	CMakeFiles/TresEnRayaV1.dir/main.cpp.obj	cab33b854af74d51
+19	539	6763019103286448	CMakeFiles/TresEnRayaV1.dir/TicTacToe.cpp.obj	3a61b48214894c13
+14	575	6763019103655248	CMakeFiles/TresEnRayaV1.dir/Jugador.cpp.obj	1e444be1835e54f7
+16	599	6763019103844565	CMakeFiles/TresEnRayaV1.dir/Tablero.cpp.obj	bef0294394b81e05
+599	723	6763019105111121	TresEnRayaV1.exe	ff6fb42fd6bd33ae
+5	417	6763028579184906	CMakeFiles/TresEnRayaV1.dir/main.cpp.obj	cab33b854af74d51
+17	436	6763028579244881	CMakeFiles/TresEnRayaV1.dir/TicTacToe.cpp.obj	3a61b48214894c13
+436	562	6763028580600181	TresEnRayaV1.exe	ff6fb42fd6bd33ae

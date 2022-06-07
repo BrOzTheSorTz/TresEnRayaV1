@@ -1,0 +1,33 @@
+@startuml
+
+
+class TicTacToe{
+    -jugador1:Jugador
+    -jugador2: Jugador
+    -tablero: Tablero*
+
+    +fichaPorJugador(f:int,c:int,j:Jugador*)    {Coloca la ficha del jugador \n en dicha posicion}
+    +finQ():bool {Devuelve si ha acabado el juego o ha habido un ganador}
+}
+class Jugador{
+    -ficha:char
+    -nombre:string
+    -turno: bool
+}
+class Tablero{
+    -tabla[3][3]:char
+    -numMov :int
+
+    +ponerFicha(f:int,c:int,ficha:char)
+    +obtenerFicha(f:int,c:int):char
+    +aumentarNumMov()
+    +getNumMov()
+}
+
+
+TicTacToe o--- "2"Jugador
+TicTacToe *-- "1 " Tablero
+
+
+
+@enduml
