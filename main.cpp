@@ -2,8 +2,8 @@
 #include "TicTacToe.h"
 
 int main() {
-    Jugador j1 ={"Pepe"};
-    Jugador j2 ={"Laura"};
+    Jugador j1 ={"Lorena"};
+    Jugador j2 ={"Paco"};
 
     char f1 ='X';
     char f2='O';
